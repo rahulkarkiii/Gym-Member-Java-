@@ -1,3 +1,12 @@
+/**
+ * Represents a premium gym member with personalied services.
+ * Includes trainer information, payment details, and premium charges.
+ * Inherits base attributes from GymMember.
+ * Premium members can pay in full or partial and receive discounts.
+ * 
+ * @author Rahul Karki
+ * @version 1.0
+ */
 import java.util.ArrayList;
 
 public class PremiumMember extends GymMember {
